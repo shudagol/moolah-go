@@ -1,3 +1,6 @@
+# Demo Link
+http://ec2-3-138-153-102.us-east-2.compute.amazonaws.com/moolah-go/
+
 # Installation
 
 1. Create mysql dabatase
